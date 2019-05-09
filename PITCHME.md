@@ -35,21 +35,19 @@
 ---
 ### Q.会社までの通勤時間が長いとどうなるか
 +++
-@snap[west span-50 text-center text-05]
+@snap[west span-50 text-center text-07]
 #### 条件
-- 平日勤務（休日は休み）
-  
-- 労働時間：9時~17時半
-  
+- 平日勤務（休日は休み<br>
+- 労働時間：9時~17時半<br>
 - 残業は俺が時間見てなかったとき（大体10分くらい）
 @snapend
 
-@snap[east span-50 text-center text-05]
+@snap[east span-50 text-center text-07]
 #### 通勤について
-- 乗り換え：2回
-- 通勤時間：2時間
-- 満員電車不回避
-- 椅子に基本座れない
+- 乗り換え：2回<br>
+- 通勤時間：2時間<br>
+- 満員電車不回避<br>
+- 椅子に基本座れない<br>
 @snapend
 +++
 ### A.5週間で体調を崩す羽目に。
