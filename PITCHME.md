@@ -35,14 +35,14 @@
 ---
 ### Q.会社までの通勤時間が長いとどうなるか
 +++
-@snap[west span-50 text-center]
+@snap[west span-50 text-center text-05]
 #### 条件
 - 平日勤務（休日は休み）
 - 労働時間：9時~17時半
 - 残業は俺が時間見てなかったとき（大体10分くらい）
 @snapend
 
-@snap[east span-50 text-center]
+@snap[east span-50 text-center text-05]
 #### 通勤について
 - 乗り換え：2回
 - 通勤時間：2時間
