@@ -1,8 +1,5 @@
 # Layout
 layout : center-right
-# Private repo
-published : true
 
-theme : night
+theme : sky
 highlight : ir-black
-stealth: ttpk
